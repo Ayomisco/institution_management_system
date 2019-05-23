@@ -1,0 +1,10 @@
+[23-May-2019 17:04:59 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dastaanorg/demo.altalim.in/libs/db_connect.php on line 2
+[23-May-2019 17:04:59 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dastaanorg/demo.altalim.in/libs/db_connect.php on line 2
+[23-May-2019 17:04:59 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dastaanorg/demo.altalim.in/libs/fetch_data.php on line 5
+[23-May-2019 17:04:59 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/dastaanorg/demo.altalim.in/libs/fetch_data.php on line 26
+[23-May-2019 17:04:59 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dastaanorg/demo.altalim.in/libs/db_connect.php on line 2
+[23-May-2019 17:05:08 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dastaanorg/demo.altalim.in/libs/db_connect.php on line 2
+[23-May-2019 17:05:08 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dastaanorg/demo.altalim.in/libs/db_connect.php on line 2
+[23-May-2019 17:05:08 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dastaanorg/demo.altalim.in/libs/fetch_data.php on line 5
+[23-May-2019 17:05:08 Africa/Nairobi] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/dastaanorg/demo.altalim.in/libs/fetch_data.php on line 26
+[23-May-2019 17:05:08 Africa/Nairobi] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dastaanorg/demo.altalim.in/libs/db_connect.php on line 2

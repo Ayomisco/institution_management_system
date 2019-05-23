@@ -1,0 +1,18 @@
+[23-May-2019 12:46:33 UTC] PHP Warning:  include(/home/dastaanorg/demo.altalim.in/admin/../db.php): failed to open stream: No such file or directory in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 8
+[23-May-2019 12:46:33 UTC] PHP Warning:  include(): Failed opening '/home/dastaanorg/demo.altalim.in/admin/../db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 8
+[23-May-2019 12:46:33 UTC] PHP Warning:  include(/home/dastaanorg/demo.altalim.in/admin/../settings-manager.php): failed to open stream: No such file or directory in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 9
+[23-May-2019 12:46:33 UTC] PHP Warning:  include(): Failed opening '/home/dastaanorg/demo.altalim.in/admin/../settings-manager.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 9
+[23-May-2019 12:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function detect_config() in /home/dastaanorg/demo.altalim.in/admin/incCommon.php:12
+Stack trace:
+#0 /home/dastaanorg/demo.altalim.in/admin/ajax-maintenance-mode.php(3): require()
+#1 {main}
+  thrown in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 12
+[23-May-2019 12:46:36 UTC] PHP Warning:  include(/home/dastaanorg/demo.altalim.in/admin/../db.php): failed to open stream: No such file or directory in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 8
+[23-May-2019 12:46:36 UTC] PHP Warning:  include(): Failed opening '/home/dastaanorg/demo.altalim.in/admin/../db.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 8
+[23-May-2019 12:46:36 UTC] PHP Warning:  include(/home/dastaanorg/demo.altalim.in/admin/../settings-manager.php): failed to open stream: No such file or directory in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 9
+[23-May-2019 12:46:36 UTC] PHP Warning:  include(): Failed opening '/home/dastaanorg/demo.altalim.in/admin/../settings-manager.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 9
+[23-May-2019 12:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function detect_config() in /home/dastaanorg/demo.altalim.in/admin/incCommon.php:12
+Stack trace:
+#0 /home/dastaanorg/demo.altalim.in/admin/ajax-maintenance-mode.php(3): require()
+#1 {main}
+  thrown in /home/dastaanorg/demo.altalim.in/admin/incCommon.php on line 12

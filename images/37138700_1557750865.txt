@@ -1,0 +1,20 @@
+Dear Recruiters,
+I am a highly skilled PHP Developer with seven years of experience programming for a multitude of different digital projects. I am very friendly and am an enthusiastic team player who enjoys challenging projects. I am willing to work in a brand since long. 
+
+Here are some of my professional highlights:
+
+* Strong with MySQL
+* Fluent in HTML5
+* Fluent in JavaScript
+* Very familiar with CSS3
+
+Additionally, in my work history I have:
+* Implemented code based on project specifications
+* Created new tables within MySQL
+* Tested and documented code
+* Managed project clients as our company provides us with client interactions for requirement gathering and other client relationships.
+
+Please contact me if you would like to schedule an interview or have any questions about my skills or experience.
+
+Sincerely,
+Shah Rukh
